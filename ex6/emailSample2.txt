@@ -1,0 +1,43 @@
+Ref: Folio / DP Id & Client Id No: 1208160007922700
+Name of the Shareholder: SAKETH CHERUVU
+Dear Shareholder(s),
+Sub: Passing of Resolutions through Postal Ballot (remote e-voting) - Wonderla Holidays Limited
+Notice is hereby given pursuant to Section 110 of the Companies Act, 2013, (the "Act") read with Rule 22 of the Companies (Management and Administration) Rules, 2014 (including any statutory amendment(s) or modification(s) or re-enactment(s) thereof for the time being in force) read with General CircularNo.14/2020 dated April 08, 2020, General Circular No.17/2020 dated April 13, 2020, General Circular No. 20/2020 dated May 5, 2020, General Circular No. 22/2020 dated June 15, 2020 and General Circular No. 33/2020 dated September 28, 2020 including General Circular No.20/2021 dated December 8, 2021 (together, the "MCA Circulars") and Regulation 44 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 and other applicable laws and regulations, if any, the Company is seeking approval of the members for passing of resolutions set out in Postal Ballot Notice dated March 16, 2022 ("Notice") by way of remote electronic voting. Further, in terms of Sections 108 and 110 and other applicable provisions of the Act, as amended, read with the Companies (Management and Administration) Rules, 2014 and in compliance with Regulation 44 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Company is providing the remote e-voting facility to its members holding shares in physical or dematerialized form as on the cut-off date, being Friday, March 18, 2022, to exercise their right to vote by electronic means on the business specified in the Notice as mentioned above. Pursuant to the aforesaid MCA Circulars, you are requested to accord your approval by remote e-voting system only.
+
+The Company has appointed KFin Technologies Limited (hereinafter referred to as 'KTL' or 'Service Provider') for facilitating remote e-voting to enable the members to cast their votes electronically.
+
+The Postal Ballot Notice is available on the Company's website at https://www.wonderla.com/investor-relations/ and on the website of KFin Technologies Limited at https://evoting.kfintech.com.
+
+Further, please find below the link to download the Postal Ballot Notice including the instructions for e-Voting:
+
+Click here
+
+Pursuant to SEBI circular no. SEBI/HO/CFD/CMD/CIR/P/2020/242 dated 9th December, 2020 on "e-voting facility provided by Listed Companies", e-voting process has been enabled for all the individual demat account holders, by way of single login credential, through their demat accounts/ websites of Depositories ("NSDL"/"CDSL") and Depository Participants in order to increase the efficiency of the voting process.
+
+Members are advised to update their mobile number and e-mail id in their demat accounts in order to access the e-voting facility.
+
+Non-individual Members holding shares in demat mode and Members holding shares in physical mode can cast their vote by remote e-voting through KFin Technologies Limited by accessing the link https://evoting.kfintech.com using the login credentials mentioned below:
+ 
+EVEN (E-Voting Event Number)	USER ID	Password / PIN
+6521	1208160007922700	Existing Password
+The remote e-voting facility will be available during the period as given below:
+ 
+Commencement of Remote e-voting	Friday, March 25, 2022 (09.00 A.M. IST)
+End of Remote e-voting	Saturday, April 23, 2022 (05.30 P.M. IST)
+In this regard, we urge you to exercise your right by accessing the website: https://evoting.kfintech.com and logging-in by using your user ID and password as provided above.
+
+The remote e-voting module shall be disabled on Saturday, April 23, 2022 (05.30 P.M. IST) and remote e-voting shall not be allowed thereafter. Once you cast your vote on a resolution you will not be allowed to change it subsequently.
+
+As the voting on resolution will take place only through remote e-voting, the Company has made special arrangements for registration of email addresses for receiving the postal ballot notices, for the shareholders whose email addresses are not registered with their respective depository participants or depositories or with KTL or with the Company. For detailed information in relation to email registration and remote e-voting you may refer Notes of e-voting instructions provided in Postal Ballot Notice. The shareholders can access the said facility by visiting the link https://ris.kfintech.com/clientservices/postalballot/ and follow the process mentioned therein. In case you are holding shares of the Company in multiple demat accounts or your family members or shareholders known to you are holding shares in demat/physical mode and their email addresses are not registered, they can avail this facility for receipt of this Notice.
+
+In case of any queries related to e-voting, you may refer to the Frequently Asked Questions (FAQ's) and e-voting user manual available in the "Downloads" section of https://evoting.kfintech.com or contact KTL person Mrs. Krishna Priya Maddula, Manager - Registrar in Securities, Selenium, Tower B, Plot No. 31 & 32, Financial District, Nanakramguda, Serilingampally Mandal, Hyderabad, Telangana - 500032 Tel No. +91 40 67161510/12 and email ID at priya.maddula@kfintech.com and /or may write to Company Secretary at e-mail ID investors@wonderla.com.
+
+We solicit your participation in the remote e-voting process.
+Thanking you,
+
+Yours truly,
+For Wonderla Holidays Limited
+
+Sd/-
+Srinivasulu Raju Y
+Company Secretary
